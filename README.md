@@ -32,6 +32,6 @@ Ortmann, Stephan; Lau, Raymond Kwun-sun; Chan, Kenneth Ka-lok (2025). Hong Kong 
 
 葉天生 (2001). 香港選舉資料匯編：1996年-2000年. The Chinese University of Hong Kong Press.
 
-葉天生 (2005). 香港選舉資料匯編: 2001年—2004年. CUHK Hong Kong Institute of Asia-Pacific Studies.
+葉天生 (2005). 香港選舉資料匯編：2001年—2004年. CUHK Hong Kong Institute of Asia-Pacific Studies.
 
-葉天生 (2015). 香港選舉資料匯編: 2005年—2012年. CUHK Hong Kong Institute of Asia-Pacific Studies.
+葉天生 (2015). 香港選舉資料匯編：2005年—2012年. CUHK Hong Kong Institute of Asia-Pacific Studies.
