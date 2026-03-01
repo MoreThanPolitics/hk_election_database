@@ -26,11 +26,11 @@ Lo, Sonny Shiu-hing; Hung, Steven Chung-fun; Loo, Jeff Hai-chi; Yau, Cody Wai-kw
 
 Ortmann, Stephan; Lau, Raymond Kwun-sun; Chan, Kenneth Ka-lok (2025). Hong Kong Politics after the National Security Law: Autocratization and Its Consequences. Routledge.
 
-雷競璇、沈國祥 (1995). 香港選舉資料匯編：1982年-1994年. The Chinese University of Hong Kong Press.
+雷競璇、沈國祥 (1995). 香港選舉資料匯編：1982年—1994年. The Chinese University of Hong Kong Press.
 
 雷競璇、沈國祥 (1996). 香港選舉資料匯編：1995年. The Chinese University of Hong Kong Press.
 
-葉天生 (2001). 香港選舉資料匯編：1996年-2000年. The Chinese University of Hong Kong Press.
+葉天生 (2001). 香港選舉資料匯編：1996年—2000年. The Chinese University of Hong Kong Press.
 
 葉天生 (2005). 香港選舉資料匯編：2001年—2004年. CUHK Hong Kong Institute of Asia-Pacific Studies.
 
