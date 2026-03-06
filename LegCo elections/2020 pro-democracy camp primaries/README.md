@@ -1,12 +1,12 @@
 # Introduction
 
-Date(s) held: July 11 and 12，2020
+Date(s) held: July 11 and 12, 2020
 
 Purpose: to pick candidates for the subsequently-postponed 7th Legislative Council (LegCo) elections held in September to maximize pro-democracy camp's chance for obtaining a majority in the Council (also known as the "35+" project) for the first time
 
 Electoral system: SNTV (geographical constituencies and the District Council (2nd) functional constituency); FPTP (Health Services functional constituency) [1]
 
-# Overwiev
+# Overview
 
 Riding a wave of disaffection with the government over the since-retracted extradition bill and its inability to implement the so-called "five demands" [2] by the protesters, pro-democracy candidates collectively won a historic 389 out of 452 popularly elected seats in the November 2019 local elections - the biggest landslide in the city's electoral history. 
 
@@ -20,7 +20,7 @@ Tai immediately suggested a primary election to prevent infighting within the pr
 
 As a result, new political groups, such as Neo Democrats, People Power (PP) and Civic Passion (breakaway groups of the DP, LSD and PP respectively) have been formed, hoping to tilt the needle to the more confrontational side when it came to the Hong Kong and Chinese governments. The infighting within the camp cost them much-needed seats in the 2012 LegCo elections: in the Kowloon East (KLE) and New Territories West constituencies, despite receiving a majority of the vote, pro-democracy candidates only won a minority of the seats by simply running too much candidates. Take the KLE constituency for example: in 2012, when the pro-Beijing camp only fielded 3 lists to the 5-seat KLE, pro-democrats had six; Things were about the same in 2016, with the anti-establishment camp running a staggering 8 lists. Tai and the pro-democrats saw this and vowed not to let this happen again.
 
-To be continued
+To be continued beacuse I'm so exhausted
 
 # Candidates
 
