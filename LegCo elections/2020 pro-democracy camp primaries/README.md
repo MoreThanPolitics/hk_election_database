@@ -101,10 +101,7 @@ North District Blueprint 北區連線 (L)
 
 It was formed in 2019 by residents living in the city’s North District in preparation of the district council elections held that year. The group won 7 seats in that year’s election, becoming the largest political group in the North District Council (NDC). However, the group has occasionally clashed with traditional democrats and the primaries’ organizers (mainly Benny Tai) during the primary period.
 
-For instance, group member Hendrick Lui, who was planning to run in NTE, slammed the primaries as “just another managed big tent” controlled by the democratic establishment, and questioned the fairness of the primaries. He also clashed with Benny Tai on whether to adopt a “common political platform” for the primaries; Tai worried the signing of said platform would cause mass disqualifications, which Lui criticized as "an act of practicing self-censorship”. 
-
-Another potential candidate, Law Ting-fai (brother of NDC chairman Jasper Law), stated that he would also not be participating in the primaries due to the NWSC’s participation, also having the same doubts as Lui. 
-Law instead opted for the general election, while Lui eventually joined the primary as an independent.
+For instance, group member Hendrick Lui, who was planning to run in NTE, slammed the primaries as “just another managed big tent” controlled by the democratic establishment, and questioned the fairness of the primaries. He also clashed with Benny Tai on whether to adopt a “common political platform” for the primaries; Tai worried the signing of said platform would cause mass disqualifications, which Lui criticized as "an act of practicing self-censorship”. Another potential candidate, Law Ting-fai (brother of NDC chairman Jasper Law), announced he would also not be participating in the primaries, stating similar reasons. Law instead opted for the general election, while Lui eventually joined the primary as an independent.
 
 Civic Passion 熱血公民 (L)
 
