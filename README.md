@@ -17,14 +17,19 @@ LegCo by-elections: 2007 (HKI), 2010 (All GCs), 2016 (NTE), 201803 (HKI, KLW, NT
 
 LegCo pro-democracy primaries: 2020
 
-Feel free to contact me at Twitter (MoreThanPol) or Instagram (morethanpol_ig) shall you have any questions.
+Feel free to contact me at Twitter (MoreThanPol) or Instagram (morethanpol_ig) shall you have any enquires. Also, if you happen to possess unofficial polling station tallies for the pre-2004 elections or know where to obtain said information, please tell me as well.
 
-# External Readings
+# External Readings 
+
+On Hong Kong politics in general:
+
 Lam, Wai-man; Lui, Percy Luen-tim; Wong, Wilson (2024). Contemporary Hong Kong Government and Politics: Third Edition. Hong Kong University Press.
 
 Lo, Sonny Shiu-hing; Hung, Steven Chung-fun; Loo, Jeff Hai-chi; Yau, Cody Wai-kwok (2023). The Politics of District Elections and Administrations in Hong Kong. City University of Hong Kong Press.
 
 Ortmann, Stephan; Lau, Raymond Kwun-sun; Chan, Kenneth Ka-lok (2025). Hong Kong Politics after the National Security Law: Autocratization and Its Consequences. Routledge.
+
+On Hong Kong elections:
 
 雷競璇、沈國祥 (1995). 香港選舉資料匯編：1982年—1994年. The Chinese University of Hong Kong Press.
 
