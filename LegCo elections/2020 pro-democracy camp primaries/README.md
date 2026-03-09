@@ -70,7 +70,7 @@ Chai Wan Startup 柴灣起動
 
 Same concept as Kickstart Wan Chai, except it was founded by Eastern district councilor Andy Chui and had a focus in the Chai Wan/Siu Sai Wan areas. Like Yeung, he was also a primary candidate for the HKI constituency.
 
-Localist groups
+Localist groups:
 
 (Note: localist groups and individuals were often lumped together into a wider spectrum of “pro-democracy camp” by the media, and many localists disapproved of that. Here, “localist” refers to a combination of self-determination groups (or “left-wing localists” according to academia), district-based groups that sprung after the Umbrella Movement or the anti-extradition protests, and individuals who have expressed nativist views. The “right-wing localists”, in the academic sense, did not run in the primaries as they believed that they had been either excluded by the political system that there was no point in running, or they despised everyone who was part of the broader “pro-democracy camp”.)
 
