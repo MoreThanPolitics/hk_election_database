@@ -88,7 +88,7 @@ The group was formed in 2015 after the failure of the Umbrella protests, and has
 
 Sha Tin Community Network 沙田社區網絡
 
-Founded by Ventus Lau in 2015. Originally a member of Neo Democrats, Lau quit the group after the Umbrella protests following clashes with Gary Fan over the disaffiliation of the CUHK Students' Union from the Hong Kong Federation of Students (HKFS) [5], which he viewed the HKFS a burden on democratic development. He was also a candidate for the 2018 NTE by-election, but was promptly disqualified because of his pro-independence views.
+Founded by Ventus Lau in 2015. Originally a member of Neo Democrats, Lau quit the group after the Umbrella protests following clashes with Gary Fan over the disaffiliation of the CUHK Students' Union from the Hong Kong Federation of Students (HKFS) [6], which he viewed the HKFS a burden on democratic development. He was also a candidate for the 2018 NTE by-election, but was promptly disqualified because of his pro-independence views.
 He decided to run for LegCo one more time, participating in the primaries under the “Localist” banner.
 
 Non-participating parties: (T=traditional parties; L=localists)
@@ -185,10 +185,34 @@ Health Services functional constituency:
 
 # Campaign
 
+Following Tai’s call for a primary, the Power for Democracy, the organizer of the primaries, met up with potential candidates and party representatives to participate in deliberation meetings in the early months of 2020. However, the camp failed to reach a consensus on whether to adopt a common pledge that they would veto the government budget; the traditional factions worried that such a pledge would lead to mass disqualifications, while the localists criticized the moderates’ lack of commitment to uphold the aim of the primaries and the movement at-large.
+
+In June 2020, three localist candidates (Fergus Leung, Owen Chow and Sam Cheung) launched an online declaration to show voters their "will for resistance." Entitled "Resolute Resistance, Inked without Regret", the petition called on candidates to endorse the five demands of the protest movement and to pledge compliance that they would veto the budget at all means if elected. Most importantly, the declaration was to put pressure on the traditional democrats to uphold the pledge, which the localists had long accused of not being sufficiently effective to achieve Hong Kong’s democratization. Most localist candidates, as well as traditional parties Neo Democrats and Civic Party, were among the signatories. Two candidates representing the ADPL also signed the pledge as individuals.
+
+Pre-primary debates were jointly organized by four pro-democracy media outlets (newspaper Apple Daily, website Stand News and radio stations D100 and Singjai). Discourse on policy issues was virtually non-existent during the debates; instead, candidates focused on emphasizing how they would confront the government if elected. The performance of incumbent legislators, ranging from their voting records to appearances during the protest frontlines and the track records of their respective parties, was also under scrutiny. The "big two" pro-democratic parties, namely the Democratic Party and the Civic Party, were seen as "natural targets" by localists: the former was criticized for its lack of commitment to veto every government bill and its involvement with the Chinese government officials in 2010, while the latter was slammed for overly emphasizing the need of "upholding the rule of law" in Hong Kong.
+
+As the primaries were looming near, legal threats against the pro-democracy camp by the government had intensified since the NSL’s enactment. On July 10, 2020, the day before the primaries, the police raided the office of the Hong Kong Public Opinion Research Institute, which designed the mobile voting system for the primaries, over suspected data leak from a project conducted in 2013, although no arrests were made. The Housing Authority (HA) sent letters warning pro-democracy local councilors who used their offices as polling stations, many of which were located within the HA’s premises, of a breach of the rental contract. The Home Affairs Bureau immediately chimed in, arguing that councilors who use their offices for non-constituent service purposes would not have their expenses reimbursed for the entire month.
+
+Despite the government’s threats of potential violation of the NSL by the organizers, over 600,000 people voted online or cast paper ballots in the span of two days. Turnout was 13.6% of all registered voters (606771/4466944), the highest of any unofficial election in the city’s history. 
+
+# The Election 
+
+(For results of individual constituencies, please refer to the file “2020 LegCo pd primaries.png” above)
+
+In Hong Kong Island, Democratic incumbent Ted Hui, who was often seen mediating in the protest frontlines, won a majority of District Council Constituency Areas (DCCAs), while the remaining candidates also showed strengths in their respective strongholds and/or DCCAs. Despite not advancing, Andy Chui won the vast majority of DCCAs in Chai Wan and Siu Sai Wan.
+
+Enjoying citywide recognition, Jimmy Sham, convenor of the protest organizer Civil Human Rights Front, led in all but seven DCCAs in Kowloon West. Kalvin Ho of the ADPL, whose party was deeply rooted in the Sham Shui Po area, won several DCCAs in the district. However, the biggest surprise there was the ouster of Helena Wong, the Democratic incumbent who was criticized for her outdated mentality and gaffes during the protests.
+
+In Kowloon East, Joshua Wong, the city’s prominent activist, finished first in most DCCAs within the constituency, while the areas won by both incumbents (Wu Chi-wai and Jeremy Tam) all had district councilors of their respective parties. ADPL’s Sze Tak-loy was able to win his own DCCA, but was virtually unknown everywhere else and ended up with only 1%. Despite aiming to win only 3 seats, the pro-democrats intentionally fielded five candidates in the general election so that the two worst-polling candidates could drop out before polling day.
+
+Incumbent legislator Eddie Chu was the best-performing candidate in New Territories West, winning the vast majority of DCCAs in Tsuen Wan, Kwai Tsing and Islands districts. The two localist district-based groups, TMCN and TSWC, also showed strong performances in their respective areas, while support for the Democratic Party’s Andrew Wan was limited to the Northeastern Kwai Chung area, where he served as district councilor for more than a decade.
+
+In New Territories East, the vast majority of DCCAs were won by the three leading candidates, namely Gwyneth Ho, Ventus Lau and incumbent Alvin Yeung. Ho performed best in Tai Wai, Ma On Shan and Tseung Kwan O, while Yeung’s stronghold was in central Sha Tin district, which had several local councilors from his party. With the support of multiple like-minded councilors, Lau was able to win multiple DCCAs in western Sha Tin district, stretching from the middle-class Belair Gardens to the high-end houses along Tai Po Road. Despite not advancing to the general, Hendrick Lui won the most votes in North District and enjoyed wide support in the Fanling area.
+
+(to be continued)
+
 # Notes
 
-[1]
+[1][2][3][4][5][6]
 
-[2]
 
-[3]
