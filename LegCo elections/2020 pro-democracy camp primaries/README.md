@@ -197,7 +197,7 @@ Despite the government’s threats of potential violation of the NSL by the orga
 
 # The Election 
 
-(For results of individual constituencies, please refer to the file “2020 LegCo pd primaries.png” above)
+(For results of individual constituencies, please refer to the files "2020 LegCo pd primaries.png" and "2020 LegCo pd primaries_DC2.png" above)
 
 In Hong Kong Island, Democratic incumbent Ted Hui, who was often seen mediating in the protest frontlines, won a majority of District Council Constituency Areas (DCCAs), while the remaining candidates also showed strengths in their respective strongholds and/or DCCAs. Despite not advancing, Andy Chui won the vast majority of DCCAs in Chai Wan and Siu Sai Wan.
 
