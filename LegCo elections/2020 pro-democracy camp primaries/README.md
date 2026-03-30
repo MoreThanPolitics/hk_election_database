@@ -224,7 +224,7 @@ The full results of the Health Services functional constituency were as follows:
 
 Paper ballots skewed overwhelmingly to the traditional parties, aligning with the conventional wisdom that seniors were generally more resistant to change and would instead opt for the status quo. 
 
-The senior vote was instrumental in the final results of Kowloon West: thanks to paper ballots, ADPL’s Kalvin Ho jumped to the fourth and final spot for the general election, replacing localist Frankie Fung’s spot during the initial results. Analysis showed that all 5 polling stations with physical voting booths within the constituency were located in ADPL’s stronghold of Sham Shui Po, thus making the difference for Ho.
+The senior vote was instrumental in the final results of Kowloon West: thanks to paper ballots, ADPL’s Kalvin Ho jumped to the fourth and final spot for the general election, replacing localist Frankie Fung who was in fourth place initially. Analysis showed that all 5 polling stations with physical voting booths within the constituency were located in ADPL’s stronghold of Sham Shui Po, thus making the difference for Ho.
 
 # Afterneath
 
