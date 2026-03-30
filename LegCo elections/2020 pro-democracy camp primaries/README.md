@@ -20,7 +20,7 @@ Tai immediately suggested a primary election to prevent infighting within the pr
 
 As a result, new political groups, such as Neo Democrats, People Power (PP) and Civic Passion (breakaway groups of the DP, LSD and PP respectively) have been formed, hoping to tilt the needle to the more confrontational side when it comes to the Hong Kong and Chinese governments. The infighting within the camp cost them much-needed seats in the 2012 LegCo elections: in the Kowloon East (KLE) and New Territories West (NTW) constituencies, despite receiving a majority of the vote, pro-democracy candidates only won a minority of the seats by simply running too many candidates. Take the KLE constituency for example: in 2012, when the pro-Beijing camp only fielded 3 lists to the 5-seat KLE, pro-democrats had six; Things were about the same in 2016, with the anti-establishment camp running a staggering 8 lists. Tai and the pro-democrats saw this and vowed not to let this happen again.
 
-For the pro-democrats, getting a majority in LegCo was already a monumental task; with the spread of COVID-19 already slowing down street resistance, Beijing’s suppressions have only become more aggravated. In May 2020, in an unprecedented move, the Chinese National People’s Congress (NPC) announced it would draft a national security law  (NSL) targeting secession, terrorism, collusion and subversion against the central government - all without any input or consultation from Hong Kong’s political institutions. Unsurprisingly, the legislation received unanimous support from the rubber-stamp NPC on June 30, 2020 and became law the same day. After the enactment, Hong Kong officials were quick to denounce the primaries, alleging the legislator-hopefuls could violate the new NSL if they voted against the budget, to which Tai replied his work was in accordance with the Basic Law and downplayed any claims of wrongdoings.
+For the pro-democrats, getting a majority in LegCo was already a monumental task; with the spread of COVID-19 already slowing down street resistance, Beijing’s suppressions have only become more aggravated. In May 2020, in an unprecedented move, the Chinese National People’s Congress (NPC) announced it would draft a national security law  (NSL) targeting secession, terrorism, collusion and subversion against the central government - all without any input or consultation from Hong Kong’s political institutions. Unsurprisingly, the legislation received unanimous support from the rubber-stamp NPC on June 30, 2020 and became law the same day. After the enactment, Hong Kong officials were quick to denounce the primaries, alleging the legislator-hopefuls could violate the new NSL if they voted against the budget, to which Tai replied his work was in accordance with the Basic Law and downplayed any claims of wrongdoings. However, when it is all said and done, Hongkongers will cast their votes under the shadow of the new law.
 
 # Contesting parties and non-participants
 
@@ -72,7 +72,7 @@ Same concept as Kickstart Wan Chai, except it was founded by Eastern district co
 
 Localist groups:
 
-(Note: localist groups and individuals were often lumped together into a wider spectrum of “pro-democracy camp” by the media, and many localists disapproved of that. Here, “localist” refers to a combination of self-determination groups (or “left-wing localists” according to academia), district-based groups that sprung after the Umbrella Movement or the anti-extradition protests, and individuals who have expressed nativist views. The “right-wing localists”, in the academic sense, did not run in the primaries as they believed that they had been either excluded by the political system that there was no point in running, or they despised everyone who was part of the broader “pro-democracy camp”.)
+(Note: localist groups and individuals were often lumped together into a wider spectrum of “pro-democracy camp” by the media, and many localists disapproved of that. Here, “localist” refers to a combination of self-determination groups (or “left-wing localists” according to academia), district-based groups that sprung after the Umbrella Movement or the anti-extradition protests, and individuals who have expressed nativist views. The “right-wing localists”, in the academic sense, did not run in the primaries as they believed that they had been either excluded by the political system that there was no point in running, or they despised everyone who was part of the broader “pro-democracy camp”. To learn more about localists in general, please refer to the “external reading” section.)
 
 Team Chu Hoi-dick of New Territories West 朱凱廸新西團隊
 
@@ -191,7 +191,9 @@ In June 2020, three localist candidates (Fergus Leung, Owen Chow and Sam Cheung)
 
 Pre-primary debates were jointly organized by four pro-democracy media outlets (newspaper Apple Daily, website Stand News and radio stations D100 and Singjai). Discourse on policy issues was virtually non-existent during the debates; instead, candidates focused on emphasizing how they would confront the government if elected. The performance of incumbent legislators, ranging from their voting records to appearances during the protest frontlines and the track records of their respective parties, was also under scrutiny. The "big two" pro-democratic parties, namely the Democratic Party and the Civic Party, were seen as "natural targets" by localists: the former was criticized for its lack of commitment to veto every government bill and its involvement with the Chinese government officials in 2010, while the latter was slammed for overly emphasizing the need of "upholding the rule of law" in Hong Kong.
 
-As the primaries were looming near, legal threats against the pro-democracy camp by the government had intensified since the NSL’s enactment. On July 10, 2020, the day before the primaries, the police raided the office of the Hong Kong Public Opinion Research Institute, which designed the mobile voting system for the primaries, over suspected data leak from a project conducted in 2013, although no arrests were made. The Housing Authority (HA) sent letters warning pro-democracy local councilors who used their offices as polling stations, many of which were located within the HA’s premises, of a breach of the rental contract. The Home Affairs Bureau immediately chimed in, arguing that councilors who use their offices for non-constituent service purposes would not have their expenses reimbursed for the entire month.
+As the primaries were looming near, legal threats against the pro-democracy camp by the government had intensified since the NSL’s enactment. On July 10, 2020, the day before the primaries, the police raided the office of the Hong Kong Public Opinion Research Institute, which designed the mobile voting system for the primaries, over suspected data leak from a project conducted in 2013, although no arrests were made. The Housing Authority (HA) sent letters warning pro-democracy local councilors who used their offices as polling stations, many of which were located within the HA’s premises, of a breach of the rental contract, even threatening eviction. The Home Affairs Bureau immediately chimed in, arguing that councilors who use their offices for non-constituent service purposes would not have their expenses reimbursed for the entire month.
+
+No serious incidents occurred during the campaign period, besides some clashes between localist Owen Chow and the Democratic Party. While Democratic district councilor Ng Ting-lam was canvassing for party candidate Lam Cheuk-ting in Tai Wai, she invoked Owen Chow in a speech and accused him of faking his “localist credentials” because he was “never seen on the protest frontlines.” Upon hearing the allegations, Chow rushed to the scene and spent the afternoon confronting Ng and Lam Cheuk-ting’s volunteers, to which Ng claimed localists “aren’t that different from the CCP.”
 
 Despite the government’s threats of potential violation of the NSL by the organizers, over 600,000 people voted online or cast paper ballots in the span of two days. Turnout was 13.6% of all registered voters (606771/4466944), the highest of any unofficial election in the city’s history. 
 
@@ -209,7 +211,25 @@ Incumbent legislator Eddie Chu was the best-performing candidate in New Territor
 
 In New Territories East, the vast majority of DCCAs were won by the three leading candidates, namely Gwyneth Ho, Ventus Lau and incumbent Alvin Yeung. Ho performed best in Tai Wai, Ma On Shan and Tseung Kwan O, while Yeung’s stronghold was in central Sha Tin district, which had several local councilors from his party. With the support of multiple like-minded councilors, Lau was able to win multiple DCCAs in western Sha Tin district, stretching from the middle-class Belair Gardens to the high-end houses along Tai Po Road. Despite not advancing to the general, Hendrick Lui won the most votes in North District and enjoyed wide support in the Fanling area.
 
-(to be continued)
+In the District Council (Second) functional constituency, Democratic incumbent Roy Kwong swept much of the city obtaining over half of the votes alone. Also advancing were Lester Sham and Henry Wong, two localist candidates who put up respectable performances in the western part of the New Territories. Despite being mathematically able to win only three seats in total, James To, who finished fourth, was allowed to advance to the general because his seniority in LegCo was a much-needed asset within the political system, such as presiding over the election for the chamber’s President.
+
+Last but not least, labor unionist Winnie Ng unseated 16-year incumbent Joseph Lee by a 76%-7% margin in the Health Services functional constituency, the only of its kind to have a primary election. Yu, the founder of Hospital Authority Employees Alliance, launched a general strike in February 2020 to pressure the government into shutting down the entire border with Mainland China following the city’s first outbreak of Covid-19 cases. Politically, she was aligned with the localists.
+
+The full results of the Health Services functional constituency were as follows:
+
+- Winnie Yu: 2493, 75.98%
+- Michael Felix Lau: 516, 15.73%
+- Joseph Lee: 218, 6.64%
+- Yuen Wai-kit: 54, 1.65%
+
+Paper ballots skewed overwhelmingly to the traditional parties, aligning with the conventional wisdom that seniors were generally more resistant to change and would instead opt for the status quo. 
+
+The senior vote was instrumental in the final results of Kowloon West: thanks to paper ballots, ADPL’s Kalvin Ho jumped to the fourth and final spot for the general election, replacing localist Frankie Fung’s spot during the initial results. Analysis showed that all 5 polling stations with physical voting booths within the constituency were located in ADPL’s stronghold of Sham Shui Po, thus making the difference for Ho.
+
+# Afterneath
+
+(tbc)
+
 
 # Notes
 
