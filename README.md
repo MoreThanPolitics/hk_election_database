@@ -5,6 +5,8 @@ Welcome to the Hong Kong Election Database, where you will find election maps an
 
 2. This database omits the 1995, 1998 and 2000 Legislative Council (LegCo) elections due to a lack of granular election results (i.e. only the final results at the geographical constituency (GC) level were officially reported), making these elections impossible to map at any other electoral unit. Before the transfer of sovereignty, as a British colony, the city followed the UK's vote heavily centralized vote counting process where ballots from different polling stations were transported to a single counting place. This persisted until the 2004 LegCo elections when ballots were finally counted at the polling stations, although the polling station boundaries do not necessarily follow DCCA boundaries (more on that later).
 
+[May 7, 2026 update on point 2]: Following some news searches on the WisersOne database, I can confirm that vote counting for the 2000 LegCo general election (and the subsequent by-election later that year) was conducted in a hybrid format. Like the previous election in 1998, votes were still transported to a central counting location; however, instead of mixing ballots from all polling stations at once, the 2000 election only combined the votes in groups of 2 to 3 polling stations, providing slightly more granular results, although said figures were not published online or made publicly available. I'll try contacting the Registration and Electoral Office later to see if they still have the data, so stay tuned I guess?
+
 That being said, all the elections you can find on this database are:
 
 LegCo general elections: 2004, 2008, 2012, 2016
@@ -40,3 +42,5 @@ On Hong Kong elections:
 葉天生 (2005). 香港選舉資料匯編：2001年—2004年. CUHK Hong Kong Institute of Asia-Pacific Studies.
 
 葉天生 (2015). 香港選舉資料匯編：2005年—2012年. CUHK Hong Kong Institute of Asia-Pacific Studies.
+
+蔡子強、馬嶽、陳雋文 (2022). 特區選舉：制度及投票行為. City University of Hong Kong Press.
