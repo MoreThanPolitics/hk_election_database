@@ -1,5 +1,5 @@
 # Introduction
-Welcome to the Hong Kong Election Database, where you will find election maps and data for most Hong Kong elections ranging from 1994 to 2020 at the DBCA/DCCA level, the city's smallest unit of election administration with a defined boundary. Before going any further, here are some clarifications to clear up.
+Welcome to the Hong Kong Election Database, where you will find election maps and data for most Hong Kong elections from 1994 to 2020 at the DBCA/DCCA level, the city's smallest unit of election administration with a defined boundary. Before going any further, here are some clarifications to clear up.
 
 1. Suffrage (NOTE: not to be confused with "universal suffrage"; these two are distinct concepts especially in the context of Hong Kong politics) in Hong Kong started in 1982 when the British colonial government introduced popularly-elected seats for the city's local administration bodies, namely, the Urban Council and the newly-established District Boards. However, this database only goes down to the 1994 District Boards elections as this was the earliest election year where shapefiles/pre-made SVGs of the electoral boundaries are available on the Internet.
 
