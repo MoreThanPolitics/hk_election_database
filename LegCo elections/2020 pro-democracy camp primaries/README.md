@@ -291,6 +291,6 @@ I’ll conclude this write-up with this: “Never assume your vote cannot be tak
 
 Kaeding, Malte Philipp (2017). The rise of “Localism” in Hong Kong. Journal of Democracy, 28(1), 157–171. https://doi.org/10.1353/jod.2017.0013
 
-Mo, Kwan Tai Michael (2024). Hong Kong pro-democracy 35 plus movement: How different types of polarisation shaped the deliberations. [Master’s  thesis, University of Leeds]. White Rose eTheses Online. https://etheses.whiterose.ac.uk/id/eprint/35219/7/202407191045-mmolds-thesis-combined-amendments-track-off-all-accepted.pdf
+Mo, Kwan-tai Michael (2024). Hong Kong pro-democracy 35 plus movement: How different types of polarisation shaped the deliberations. [Master’s  thesis, University of Leeds]. White Rose eTheses Online. https://etheses.whiterose.ac.uk/id/eprint/35219/7/202407191045-mmolds-thesis-combined-amendments-track-off-all-accepted.pdf
 
 法庭線 [The Witness] (2026). 47人案被告出獄、上訴、審訊　《法庭線》報道一覽 [The Hong Kong 47 Case: The Witness’ Comprehensive Coverage Overview of Defendants’ Release, Appeals, and Trial Proceeding]. https://thewitnesshk.com/case-47democrats
